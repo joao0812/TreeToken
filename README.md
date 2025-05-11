@@ -61,7 +61,7 @@ O contrato herda de:
 
 ### 1. Clone o projeto:
 ```bash
-git clone [https://github.com/seu-usuario/tree-token.git](https://github.com/joao0812/TreeToken.git)
+git clone https://github.com/joao0812/TreeToken.git
 cd Tree - Soluções ESG Integradas
 ```
 
